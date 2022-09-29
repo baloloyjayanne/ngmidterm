@@ -22,6 +22,13 @@ listOfPosts: Post[]=[
     'The painting depicts a man and woman embracing, with the woman appearing to be either kissing or biting the man on his neck. Munch maintained it was nothing more than a woman kissing a man on the neck. The Nazis declared it morally ‘degenerate.’ In the painting, we see a man in anguish, arms around his love, while she tries to comfort him. Perhaps she is laying her face on his shoulder even. Some thought it was about his visits to prostitutes, yet others saw it as some sort of macabre fantasy about the death of his favorite sister. Evidently Munch remained ambiguous about the deeper meaning behind it.',
     'Edvard Munch',  
     new Date
+  ),
+  new Post(
+    'Vampire (or Love and Pain)',
+    'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Edvard_Munch_-_Vampire_%281895%29_-_Google_Art_Project.jpg/1920px-Edvard_Munch_-_Vampire_%281895%29_-_Google_Art_Project.jpg',
+    'The painting depicts a man and woman embracing, with the woman appearing to be either kissing or biting the man on his neck. Munch maintained it was nothing more than a woman kissing a man on the neck. The Nazis declared it morally ‘degenerate.’ In the painting, we see a man in anguish, arms around his love, while she tries to comfort him. Perhaps she is laying her face on his shoulder even. Some thought it was about his visits to prostitutes, yet others saw it as some sort of macabre fantasy about the death of his favorite sister. Evidently Munch remained ambiguous about the deeper meaning behind it.',
+    'Edvard Munch',  
+    new Date
   )
 ]
 
